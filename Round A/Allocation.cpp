@@ -1,3 +1,4 @@
+//Hint:- Solved using Greedy Approach.
 #include <bits/stdc++.h>
 using namespace std;
 #define _fast_ ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0)
@@ -20,9 +21,6 @@ int solve()
     }
     return c;
 }
-
-
-
 
 int main()
 {
