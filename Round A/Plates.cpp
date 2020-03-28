@@ -1,1 +1,1 @@
-//Hint:- Using Dynamic Programming Approach.
+//Hint:- Solved using Dynamic Programming Approach.
